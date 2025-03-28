@@ -1,4 +1,4 @@
-# Sum Numbers Backend FastAPI
+# Sum Numbers Frontend React
 
 ## Clone Project
 The first thing to do is to clone the repository:
